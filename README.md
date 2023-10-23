@@ -9,6 +9,6 @@ Beside that, it also combines some content of WorldQuantUniversity Machine Learn
 - Decision Tree, Random Forest
 - ...
  ## Reference
-Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow, by Aurelien Geron, September 2019 second edition, published by Oreilly
-WorldQuantUniversity Machine Learning course
+- Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow, by Aurelien Geron, September 2019 second edition, published by Oreilly
+- WorldQuantUniversity Machine Learning course
 
