@@ -9,5 +9,5 @@ Its goal is to give the concepts, tools that need to implement programs capable 
 - Decision Tree, Random Forest
 - ...
  ## Reference
-- Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow, by Aurelien Geron, September 2019 second edition, published by Oreilly
+- Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow, by Aurelien Geron, September 2019 second edition, published by Oreilly.
 
